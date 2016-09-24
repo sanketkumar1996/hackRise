@@ -1,1 +1,1 @@
-<?hackRise>
+<?php ?>
