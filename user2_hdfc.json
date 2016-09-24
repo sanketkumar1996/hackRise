@@ -1,0 +1,69 @@
+[
+    {
+        "id": "3747638740928321",
+        "title": "MRS",
+        "firstName": "KC",
+        "lastName": "Flemming",
+        "middleNames": "",
+        "mobileNo": "09897675645",
+        "nationalityCode": "UK",
+        "dateOfBirth": "01-03-1992 00:00:00 UTC",
+        "address": {
+            "number": "3",
+            "buildingName": "",
+            "street": "GBP Line",
+            "town": "Manchester",
+            "postalCode": "160003",
+            "country": "UK"
+        },
+        "isNewToBank": false,
+        "accountList": [
+            {
+                "id": "9287423984723984",
+                "description": "Regular Savings Account",
+                "nickName": "Medical Insurance Account",
+                "customerId": "3747638740928321",
+                "accountType": "SAVINGS_ACCOUNT",
+                "sortCode": 402578,
+                "accountNo": "****8122",
+                "currentBalance": 5000
+            },
+            {
+                "id": "098120381230129382",
+                "description": "Premier Current Account",
+                "nickName": "Future Plannings",
+                "customerId": "3747638740928321",
+                "accountType": "CURRENT_ACCOUNT",
+                "sortCode": 112233,
+                "accountNo": "****1258",
+                "card": {
+                    "cardNumber": "************4567",
+                    "displayName": "KC Flemming",
+                    "maxSpend": 3000,
+                    "currentBalance": 500,
+                    "type": "DEBIT",
+                    "customerId": "3747638740928321",
+                    "expiryDate": "01-01-2018 00:00:00 UTC"
+                },
+                "currentBalance": 1500,
+                "overdraftLimit": 1500
+            },
+            {
+                "id": "1945340430755308",
+                "description": "HDFC Credit Card Account",
+                "nickName": "My credit card",
+                "customerId": "3747638740928321",
+                "accountType": "CREDIT_CARD_ACCOUNT",
+                "card": {
+                    "cardNumber": "************7232",
+                    "displayName": "KC Flemming",
+                    "maxSpend": 7000,
+                    "currentBalance": 1500,
+                    "type": "CREDIT",
+                    "customerId": "3747638740928321",
+                    "expiryDate": "01-01-2019 00:00:00 UTC"
+                }
+            }
+        ]
+    }
+]
